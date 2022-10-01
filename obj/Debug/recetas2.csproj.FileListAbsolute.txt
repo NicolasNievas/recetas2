@@ -1,0 +1,11 @@
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\bin\Debug\recetas2.exe.config
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\bin\Debug\recetas2.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\bin\Debug\recetas2.pdb
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.csproj.AssemblyReference.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.csproj.SuggestedBindingRedirects.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.FrmAltaRecetasMio.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.Properties.Resources.resources
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.csproj.GenerateResource.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.csproj.CoreCompileInputs.cache
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.exe
+D:\00PROGRAMACIONN\0Practica 2cuatrimestre\recetas2\obj\Debug\recetas2.pdb
